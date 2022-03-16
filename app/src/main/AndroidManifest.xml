@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ink.kaleidoscope.setupwizard"
+    package="com.arcana.setupwizard"
     android:sharedUserId="android.uid.system">
 
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
@@ -11,7 +11,7 @@
     <application
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KscopeSetupWizard">
+        android:theme="@style/Theme.ArcanaSetupWizard">
 
         <activity
             android:name=".MainActivity"

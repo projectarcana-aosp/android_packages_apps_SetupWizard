@@ -1,5 +1,5 @@
 android_app {
-    name: "KscopeSetupWizard",
+    name: "ArcanaSetupWizard",
     srcs: [
         "app/src/main/**/*.java",
         "app/src/main/**/*.kt",
@@ -17,7 +17,7 @@ android_app {
         "androidx.fragment_fragment",
         "androidx.preference_preference",
         "SettingsLib",
-        "VendorSupport-preference",
+        "VendorSupport-Libs",
     ],
     overrides: ["Provision"],
 }

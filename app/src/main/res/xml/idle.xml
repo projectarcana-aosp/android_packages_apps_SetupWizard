@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <org.aospextended.support.preference.SecureSettingSwitchPreference
-        android:key="gms_enabled"
-        android:title="@string/gms_enabled"
-        android:summary="@string/gms_enabled_desc"
-        android:defaultValue="false"/>
+        android:key="arcane_idle_manager"
+        android:title="@string/arcane_idle_manager_title"
+        android:summary="@string/arcane_idle_manager_summary"
+        android:defaultValue="false" />
 </PreferenceScreen>

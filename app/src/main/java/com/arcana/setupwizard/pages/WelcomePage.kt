@@ -1,4 +1,4 @@
-package ink.kaleidoscope.setupwizard.pages
+package com.arcana.setupwizard.pages
 
 import android.content.ComponentName
 import android.content.Intent
@@ -14,8 +14,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import com.android.internal.app.LocalePicker
 import com.android.internal.app.LocaleStore;
 
-import ink.kaleidoscope.setupwizard.Page
-import ink.kaleidoscope.setupwizard.R
+import com.arcana.setupwizard.Page
+import com.arcana.setupwizard.R
 
 import java.util.*
 

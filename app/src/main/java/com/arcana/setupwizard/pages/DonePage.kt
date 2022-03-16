@@ -1,4 +1,4 @@
-package ink.kaleidoscope.setupwizard.pages
+package com.arcana.setupwizard.pages
 
 import android.app.StatusBarManager
 import android.content.ComponentName
@@ -10,10 +10,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 
-import ink.kaleidoscope.setupwizard.DEBUG_DO_NOT_DISABLE
-import ink.kaleidoscope.setupwizard.MainActivity
-import ink.kaleidoscope.setupwizard.Page
-import ink.kaleidoscope.setupwizard.R
+import com.arcana.setupwizard.DEBUG_DO_NOT_DISABLE
+import com.arcana.setupwizard.MainActivity
+import com.arcana.setupwizard.Page
+import com.arcana.setupwizard.R
 
 class DonePage : Page() {
 

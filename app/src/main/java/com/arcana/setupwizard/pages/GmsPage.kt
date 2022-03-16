@@ -1,4 +1,4 @@
-package ink.kaleidoscope.setupwizard.pages
+package com.arcana.setupwizard.pages
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.preference.PreferenceFragmentCompat
 
-import ink.kaleidoscope.setupwizard.Page
-import ink.kaleidoscope.setupwizard.R
+import com.arcana.setupwizard.Page
+import com.arcana.setupwizard.R
 
 class GmsPage : Page() {
 

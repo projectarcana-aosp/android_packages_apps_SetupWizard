@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/title_margin_start"
         android:layout_marginTop="@dimen/title_margin_top"
-        android:text="@string/gms_title"
+        android:text="@string/colors_title"
         android:textColor="?androidprv:attr/textColorOnAccent"
         android:textSize="@dimen/title_size" />
 
@@ -20,11 +20,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="30dp"
-        android:text="@string/gms_desc"
+        android:text="@string/colors_desc"
         android:textSize="18sp" />
 
     <FrameLayout
-        android:id="@+id/gms_pref"
+        android:id="@+id/colors_pref"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginBottom="@dimen/action_bar_height"

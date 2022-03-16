@@ -1,22 +1,37 @@
 <resources>
-    <string name="app_name">KscopeSetupWizard</string>
+    <string name="app_name">ArcanaSetupWizard</string>
     <string name="next_page">Next</string>
     <string name="prev_page">Prev</string>
 
     <!--Welcome Page-->
-    <string name="welcome_title">Welcome</string>
+    <string name="welcome_title">Welcome to Arcanery.</string>
 
     <!--Done Page-->
     <string name="done_title">Done</string>
     <string name="done_btn">Go</string>
-    <string name="done_desc">Congratulations, you have finished all the setups. Click the button below to start using Kaleidoscope.</string>
+    <string name="done_desc">Setup finished. Click the button below to explore the Arcanery!</string>
 
     <!--Agreement Page-->
     <string name="agreement_title">Agreement</string>
 
-    <!--Gms Page-->
-    <string name="gms_title">Google services</string>
-    <string name="gms_desc">Kaleidoscope has built-in Google Services with dynamic switch support, which means you are able to control the existence of them by simply switching the toggle below. You can find the same toggle later in \"Settings > Apps\" after finishing the setup. And remember that do not flash extra GMS packages to avoid breaking any stuff.</string>
+    <!--Arcanery Pages-->
+    <string name="gms_title">Introducing GMS Switch</string>
+    <string name="gms_desc">You are the master of this machinery.</string>
+    
+    <string name="idle_title">Introducing Arcana Idle Manager</string>
+    <string name="idle_desc">No algorithm shall exist without your knowledge.</string>
+    
+    <string name="colors_title">Introducing Vivid Colors</string>
+    <string name="colors_desc">Quas, Wex, Exort!</string>
+    
     <string name="gms_enabled">Enable Google services</string>
-    <string name="gms_enabled_desc">Disable Google services may help extend the battery life, but third-party apps relying on GMS components will not work properly.</string>
+    <string name="gms_enabled_desc">Disable Google services, may improve power consumption, but will deem google services as not-installed/non-existant.</string>
+    
+    <!-- Arcane Idle Manager -->
+    <string name="arcane_idle_manager_title">Arcana Idle Manager</string>
+    <string name="arcane_idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
+    
+    <!-- Vivid theme -->
+    <string name="system_vivid_theme_title">Vivid Colors</string>
+    <string name="system_vivid_theme_summary">A more vibrant color implementation of the usual monet.</string>
 </resources>

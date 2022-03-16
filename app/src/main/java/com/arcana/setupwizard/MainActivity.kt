@@ -1,4 +1,4 @@
-package ink.kaleidoscope.setupwizard
+package com.arcana.setupwizard
 
 import android.animation.ObjectAnimator
 import android.app.StatusBarManager

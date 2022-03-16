@@ -1,4 +1,4 @@
-package ink.kaleidoscope.setupwizard.pages
+package com.arcana.setupwizard.pages
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.ScrollView
 import android.widget.TextView
 
-import ink.kaleidoscope.setupwizard.Page
-import ink.kaleidoscope.setupwizard.R
+import com.arcana.setupwizard.Page
+import com.arcana.setupwizard.R
 
 import java.io.FileNotFoundException
 import java.io.InputStreamReader

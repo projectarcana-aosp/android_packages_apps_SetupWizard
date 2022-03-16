@@ -1,13 +1,15 @@
-package ink.kaleidoscope.setupwizard
+package com.arcana.setupwizard
 
 import android.content.Context
 
 import androidx.fragment.app.Fragment
 
-import ink.kaleidoscope.setupwizard.pages.AgreementPage
-import ink.kaleidoscope.setupwizard.pages.DonePage
-import ink.kaleidoscope.setupwizard.pages.GmsPage
-import ink.kaleidoscope.setupwizard.pages.WelcomePage
+import com.arcana.setupwizard.pages.AgreementPage
+import com.arcana.setupwizard.pages.DonePage
+import com.arcana.setupwizard.pages.GmsPage
+import com.arcana.setupwizard.pages.IdlePage
+import com.arcana.setupwizard.pages.ColorsPage
+import com.arcana.setupwizard.pages.WelcomePage
 
 import java.lang.RuntimeException
 
@@ -18,6 +20,8 @@ class Pages {
              * They will appear in order */
             WelcomePage::class.java,
             GmsPage::class.java,
+            IdlePage::class.java,
+            ColorsPage::class.java,
             DonePage::class.java,
         )
 
