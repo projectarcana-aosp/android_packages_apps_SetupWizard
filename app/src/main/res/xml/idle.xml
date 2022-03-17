@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <org.aospextended.support.preference.SecureSettingSwitchPreference
+    <org.aospextended.support.preference.SystemSettingSwitchPreference
         android:key="arcane_idle_manager"
         android:title="@string/arcane_idle_manager_title"
         android:summary="@string/arcane_idle_manager_summary"
