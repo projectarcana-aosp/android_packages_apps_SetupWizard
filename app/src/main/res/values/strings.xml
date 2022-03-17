@@ -4,12 +4,12 @@
     <string name="prev_page">Prev</string>
 
     <!--Welcome Page-->
-    <string name="welcome_title">Welcome to Arcanery.</string>
+    <string name="welcome_title">Welcome to the Arcanery.</string>
 
     <!--Done Page-->
     <string name="done_title">Done</string>
     <string name="done_btn">Go</string>
-    <string name="done_desc">Setup finished. Click the button below to explore the Arcanery!</string>
+    <string name="done_desc">ALl done, press the button below to explore the Arcanery!</string>
 
     <!--Agreement Page-->
     <string name="agreement_title">Agreement</string>
